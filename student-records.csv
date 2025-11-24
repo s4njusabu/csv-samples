@@ -1,0 +1,31 @@
+StudentID,Name,Age,Major,GPA,Year,Email,PhoneNumber,City
+S101,John Miller,21,Computer Science,3.8,Junior,john.m@email.com,555-0101,Boston
+S102,Sarah Lee,,Engineering,3.5,Senior,sarah.lee@email.com,,Seattle
+S103,Ahmed Khan,20,Business,,Sophomore,ahmed.k@email.com,555-0103,
+S104,Emma Wilson,22,Biology,3.9,Senior,,555-0104,Portland
+S105,Carlos Diaz,19,,3.2,Freshman,carlos.d@email.com,555-0105,Miami
+S106,Nina Petrov,,Mathematics,3.7,Junior,nina.p@email.com,,Chicago
+S107,James Park,21,Physics,3.6,Junior,james.park@email.com,555-0107,Austin
+S108,Maria Santos,,Psychology,,Senior,maria.s@email.com,555-0108,Denver
+S109,David Kim,20,Chemistry,3.4,Sophomore,,555-0109,
+S110,Lisa Chen,22,,3.9,Senior,lisa.chen@email.com,,San Francisco
+S111,Omar Hassan,19,Economics,3.1,Freshman,omar.h@email.com,555-0111,Atlanta
+S112,Sophie Martin,,Art,3.8,Junior,,555-0112,Nashville
+S113,Ryan Taylor,21,History,,Junior,ryan.t@email.com,555-0113,Phoenix
+S114,Fatima Ali,20,English,3.5,,fatima.ali@email.com,,Detroit
+S115,Lucas Silva,,Computer Science,3.3,Sophomore,lucas.s@email.com,555-0115,
+S116,Zoe Anderson,22,Nursing,3.7,Senior,zoe.a@email.com,555-0116,Orlando
+S117,Victor Popov,19,,3.0,Freshman,,555-0117,Dallas
+S118,Grace Wong,,Music,3.6,Junior,grace.w@email.com,,Philadelphia
+S119,Marco Rossi,21,Architecture,,Senior,marco.r@email.com,555-0119,San Diego
+S120,Aisha Khan,20,Sociology,3.2,Sophomore,aisha.khan@email.com,,
+S121,Noah Clark,,Engineering,3.9,Junior,noah.c@email.com,555-0121,Houston
+S122,Maya Patel,22,Philosophy,,Senior,,555-0122,Columbus
+S123,Alex Turner,19,Political Science,3.4,,alex.t@email.com,555-0123,Minneapolis
+S124,Elena Volkov,,Marketing,3.5,Sophomore,elena.v@email.com,,Charlotte
+S125,Daniel Oh,21,,3.7,Junior,daniel.oh@email.com,555-0125,
+S126,Isabella Costa,20,Statistics,3.3,Sophomore,,555-0126,Baltimore
+S127,Hassan Ali,,Geology,,Freshman,hassan.ali@email.com,555-0127,Memphis
+S128,Chloe Brown,22,Finance,3.8,Senior,chloe.b@email.com,,Las Vegas
+S129,Pablo Garcia,19,Anthropology,3.1,,pablo.g@email.com,555-0129,Raleigh
+S130,Anna Schmidt,,Law,3.6,Junior,,555-0130,Pittsburgh

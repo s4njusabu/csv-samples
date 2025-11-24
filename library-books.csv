@@ -1,0 +1,16 @@
+BookID,Title,Author,Genre,Year,Copies,Available,Rating
+B001,The Silent Echo,Emma Richardson,Mystery,2019,3,Yes,4.2
+B002,Digital Dreams,Marcus Chen,Sci-Fi,2021,2,No,4.5
+B003,Mountain Tales,Sofia Larson,Adventure,2018,4,Yes,3.8
+B004,The Last Garden,James Morrison,Fiction,2020,1,Yes,4.7
+B005,Code Warriors,Priya Kapoor,Technology,2022,3,No,4.1
+B006,Ocean Deep,Carlos Martinez,Nature,2017,2,Yes,3.9
+B007,Time Fragments,Anna Kowalski,Sci-Fi,2023,5,Yes,4.6
+B008,Urban Legends,David Kim,Mystery,2019,2,No,4.0
+B009,The Art of Now,Lisa Wagner,Self-Help,2021,3,Yes,4.4
+B010,Shadow Valley,Ahmed Hassan,Thriller,2020,1,Yes,4.3
+B011,Planet Earth,Nina Petrov,Science,2018,4,No,4.8
+B012,Lost Kingdoms,Roberto Silva,History,2022,2,Yes,3.7
+B013,Mind Games,Sarah Johnson,Psychology,2021,3,Yes,4.2
+B014,River Journey,Yuki Tanaka,Adventure,2019,2,No,3.9
+B015,Future Forward,Michael Brown,Technology,2023,1,Yes,4.5
